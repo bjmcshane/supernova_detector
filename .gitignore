@@ -1,0 +1,7 @@
+*.pptx
+*.m4a
+__pycache__/
+dataverse_files/
+my_data/
+reports_proposals/
+results/
